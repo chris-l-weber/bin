@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -rtpzvc -e "ssh -l cweber" kscodev02:~/ ~/kfe

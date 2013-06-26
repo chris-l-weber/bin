@@ -1,0 +1,1 @@
+sudo mount -t cifs -o username=guest,uid=cweber //192.168.33.10/vagrant /home/cweber/code
